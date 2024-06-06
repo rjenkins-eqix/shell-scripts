@@ -8,9 +8,6 @@
 #   Help message
 #   BASEDIR, LOCKDIR and STOPDIR
 #
-# $Id$
-# $Source$
-#
 
 SCRIPTNAME=`basename $0`
 DATESTAMP=`date`
